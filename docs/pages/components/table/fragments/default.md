@@ -2,6 +2,7 @@
 
 ```js
 /**
+import { Table, Column, HeaderCell, Cell } from 'rsuite-table'
  * import fakeData from
  * https://github.com/rsuite/rsuite/blob/master/docs/public/data/users.json
  */
